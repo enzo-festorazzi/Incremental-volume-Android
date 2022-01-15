@@ -8,7 +8,7 @@ A continuación se mostrarar como agregar más niveles de volumen en el sistema 
 
 Esta prueba fue realizada en un Google Pixel 1 con Lineage OS. 
   
-Debido a unos cambios en Android, no se puede realizar como antiguamente cambiando los valores de build.prop, si no que es necesario el complemento de Magisk Manager "MagiskHide Props Config".
+Debido a unos cambios en Android, no se puede realizar como antiguamente cambiando los valores de build.prop, si no que es necesario el complemento de Magisk Manager "MagiskHide Props Config" para poder modificar el archivo build.prop.
   
 Requisitos:
 * Dispositivo rooteado
@@ -20,4 +20,6 @@ Requisitos:
 * Paso 1: Abrir Terminal Emulator for Android y escribir lo siguiente:
 ```bash
 su
-```  
+```
+Luego de presionar enter aparece la siguiente ventana preguntandonos si queremos darle permiso a la consola como root. Presionamos en "permitir".
+<img src="images/1.png">
