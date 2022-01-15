@@ -1,14 +1,10 @@
-# <div align="center">
-<p align="center">
-<img src="images/banner.png">
-</p>
+# <div align="center"> Incremental volume in Android <p align="center"> <img src="images/banner.png"></p>
 
-# <div align="center"> Incremental volume in Android
 A continuación se mostrarar como agregar más niveles de volumen en el sistema Android. 
 
 Esta prueba fue realizada en un Google Pixel 1 con Lineage OS. 
   
-Debido a unos cambios en Android, no se puede realizar como antiguamente cambiando los valores de build.prop, si no que es necesario el complemento de Magisk Manager "MagiskHide Props Config" para poder modificar el archivo build.prop.
+Debido a unos cambios en el sistema Android en las nuevas versiones, no se puede realizar como antiguamente cambiando los valores directamente en build.prop, si no que es necesario el complemento de Magisk Manager "MagiskHide Props Config" para poder modificar el archivo build.prop.
   
 Requisitos:
 * Dispositivo rooteado
