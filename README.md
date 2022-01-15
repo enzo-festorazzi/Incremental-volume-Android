@@ -20,8 +20,12 @@ su
 Luego de presionar enter aparece la siguiente ventana preguntandonos si queremos darle permiso a la consola como root. Presionamos en "permitir".
 <img src="images/1.png">
   
-* Paso 2: Establecer cuantos niveles de volumen queremos, en este ejemplo se estabelcen 20
+* Paso 2: Establecer cuantos niveles de volumen queremos, en este ejemplo se estabelcen 20.
 ```bash
 props ro.config.media_vol_steps 20
 ```
 <img src="images/2.png">
+Como muestra la imagen presionamos "y" y a continuación enter.
+
+* Paso 3: Reiniciar el telefono para que tome los cambios.
+  
