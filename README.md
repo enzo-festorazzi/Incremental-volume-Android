@@ -24,8 +24,9 @@ Luego de presionar enter aparece la siguiente ventana preguntandonos si queremos
 ```bash
 props ro.config.media_vol_steps 20
 ```
+Confirmamos la acción con "y" y a continuación un enter.
 <img src="images/2.png">
-Como muestra la imagen presionamos "y" y a continuación enter.
+
 
 * Paso 3: Reiniciar el telefono para que tome los cambios.
-  
+<img src="images/3.png">
